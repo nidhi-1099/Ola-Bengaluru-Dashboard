@@ -21,7 +21,7 @@ This dashboard tries to answer key business questions such as:
 - How do customer and driver ratings affect ride performance?
 
 ## Tech Stack
-
+- SQL
 - Power BI Desktop
 - Power Query
 - DAX
