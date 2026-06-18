@@ -29,6 +29,26 @@ This dashboard tries to answer key business questions such as:
 - Excel / CSV dataset
 - Data Visualization
 
+## Why I Used These Tools
+
+### Power BI Desktop
+I used Power BI Desktop to build the complete dashboard because it is one of the most useful tools for business intelligence and data visualization. It helped me create interactive reports, KPI cards, slicers, charts, and dashboard pages in one place. Power BI also made it easy to connect the dataset, build relationships, create measures, and present the insights in a clean business format.
+
+### Power Query
+Power Query was used for cleaning and transforming the raw data before creating the dashboard. I used it to handle data types, remove unnecessary columns, check missing values, rename fields, and prepare the dataset for analysis. This step was important because clean data gives more accurate dashboard results.
+
+### DAX
+I used DAX to create calculated measures and KPIs that were required for analysis. Measures such as total bookings, successful rides, total revenue, average ride distance, cancellation rate, revenue per ride, and vehicle success rate were created using DAX. It helped me calculate business metrics dynamically based on filters and slicers.
+
+### Data Modeling
+Data modeling was used to structure the dataset properly so that the dashboard visuals could work correctly. It helped in organizing fields, creating relationships if required, and making the report easier to analyze. A good data model also improves dashboard performance and makes calculations more reliable.
+
+### Excel / CSV Dataset
+The dataset was available in Excel/CSV format, so I used it as the main data source for this project. Excel and CSV files are easy to import into Power BI and are commonly used for analytics projects. This format made it simple to load the booking data, clean it, and use it for creating insights.
+
+### Data Visualization
+Data visualization was used to present the analysis in an easy-to-understand way. Instead of showing only raw numbers, I used KPI cards, bar charts, donut charts, slicers, and tables to make the dashboard more interactive and useful. Visuals helped in quickly understanding booking trends, revenue performance, cancellation patterns, vehicle demand, and customer behavior.
+
 ## Data Source
 
 The dataset used for this project contains OLA ride booking details for Bengaluru. It includes information such as booking status, revenue, ride distance, vehicle type, pickup location, payment method, customer ratings, driver ratings, and cancellation details.
