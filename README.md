@@ -2,6 +2,10 @@
 
 This project is an interactive Power BI dashboard built to analyze OLA ride booking data for Bengaluru. The dashboard gives a clear view of bookings, revenue, ride success rate, cancellations, customer behavior, vehicle performance, and payment trends.
 
+![OLA Bengaluru Dashboard Executive Overview](images/ola-rides-page-1.png)
+
+![OLA Bengaluru Dashboard Revenue and Vehicle Analysis](images/ola-rides-page-2.png)
+
 ## Short Description
 
 The OLA Bengaluru Dashboard is designed to understand how ride bookings are performing across different days, vehicle types, locations, customers, and cancellation categories. It helps identify revenue trends, operational issues, and areas where customer and driver experience can be improved.
